@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\user\source\repos\Bankomat328\Bankomat328\Base.h(42): warning C4715: Base::search: значение возвращается не при всех путях выполнения
+  Base.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Bankomat328.vcxproj -> C:\Users\user\source\repos\Bankomat328\Release\Bankomat328.exe

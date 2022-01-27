@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>C:\Users\user\source\repos\Bankomat328\Release\Bankomat328.exe</ProjectOutputs>
+  <ContentFiles>C:\Users\user\source\repos\Bankomat328\Bankomat328\Base.cpp;C:\Users\user\source\repos\Bankomat328\Bankomat328\MyForm.cpp;C:\Users\user\source\repos\Bankomat328\Bankomat328\MyForm1.cpp;C:\Users\user\source\repos\Bankomat328\Bankomat328\MyForm2.cpp;C:\Users\user\source\repos\Bankomat328\Bankomat328\Base.h;C:\Users\user\source\repos\Bankomat328\Bankomat328\MyForm.h;C:\Users\user\source\repos\Bankomat328\Bankomat328\MyForm1.h</ContentFiles>
+  <SatelliteDlls></SatelliteDlls>
+  <NonRecipeFileRefs></NonRecipeFileRefs>
+</Project>

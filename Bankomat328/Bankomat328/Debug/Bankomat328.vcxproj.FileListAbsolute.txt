@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Bankomat328\Debug\Base.cpp
+C:\Users\user\source\repos\Bankomat328\Debug\MyForm.cpp
+C:\Users\user\source\repos\Bankomat328\Debug\MyForm1.cpp
+C:\Users\user\source\repos\Bankomat328\Debug\MyForm2.cpp
+C:\Users\user\source\repos\Bankomat328\Debug\Base.h
+C:\Users\user\source\repos\Bankomat328\Debug\MyForm.h
+C:\Users\user\source\repos\Bankomat328\Debug\MyForm1.h
+C:\Users\user\source\repos\Bankomat328\Bankomat328\Debug\Bankomat328.MyForm.resources
+C:\Users\user\source\repos\Bankomat328\Bankomat328\Debug\Bankomat328.MyForm1.resources
+C:\Users\user\source\repos\Bankomat328\Bankomat328\Debug\Bankomat328.MyForm2.resources
+C:\Users\user\source\repos\Bankomat328\Bankomat328\Debug\Bankomat328.MyForm3.resources
+C:\Users\user\source\repos\Bankomat328\Bankomat328\Debug\Bankomat328.MyForm6.resources
+C:\Users\user\source\repos\Bankomat328\Bankomat328\Debug\Bankomat328.MyForm7.resources
+C:\Users\user\source\repos\Bankomat328\Bankomat328\Debug\Bankomat328.MyForm8.resources
+C:\Users\user\source\repos\Bankomat328\Bankomat328\Debug\Bankomat328.vcxproj.GenerateResource.cache
+C:\Users\user\source\repos\Bankomat328\Bankomat328\Debug\Bankomat328.vcxprojAssemblyReference.cache
